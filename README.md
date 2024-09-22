@@ -1,1 +1,1 @@
-# Mobile-Evgeniy
+# This repository was created for homework on Kotlin
